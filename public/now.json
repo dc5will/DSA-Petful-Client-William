@@ -1,7 +1,7 @@
 {
  "version": 2,
- "name": "petful",
- "alias": "petful",
+ "name": "petful-client",
+ "alias": "petful-client",
  "routes": [
    {
      "src": "^/static/(.*)",

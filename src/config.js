@@ -1,3 +1,3 @@
 export default {
-  API_ENDPOINT: process.env.REACT_APP_API_BASE || 'http://localhost:8000/api'
+  API_ENDPOINT: 'https://lit-headland-28029.herokuapp.com/api' || 'http://localhost:8000/api'
 }
